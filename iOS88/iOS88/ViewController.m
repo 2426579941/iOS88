@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"23442");NSLog(@"23442");
     NSLog(@"提交代理");
+    NSLog(@"再次提交代理");
 }
 
 
